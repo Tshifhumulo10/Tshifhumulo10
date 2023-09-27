@@ -19,7 +19,3 @@ I am passionate about Data Analysis and Machine learning.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tshifhumulo10)](https://github.com/Tshifhumulo10/github-readme-stats)
 
-<p align='center'> 
-  visitor Count <br>
-<img src="https://profile-counter.glitch.me/Tshifhumulo10/count.svg" />
-</p>
