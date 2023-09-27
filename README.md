@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tshifhumulo10)](https://github.com/Tshifhumulo10/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tshifhumulo10&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Tshifhumulo10/IBM-Employee-Attrition])
+
 <!--
 
 Languages and Tools:
