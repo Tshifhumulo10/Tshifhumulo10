@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tshifhumulo10)](https://github.com/Tshifhumulo10/github-readme-stats)
 <!--
+
+Languages and Tools:
+amplify android angular angularjs arduino bootstrap c cplusplus css3 dart docker express figma firebase flutter gcp git graphql html5 illustrator java javascript kotlin linux mongodb mysql nextjs nodejs opencv postman python react reactnative redux tailwind tensorflow unity xd
 **Tshifhumulo10/Tshifhumulo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
