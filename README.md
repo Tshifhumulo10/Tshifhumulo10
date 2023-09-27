@@ -11,8 +11,8 @@ I am passionate about Data Analysis and Machine learning.
 - 📊 Data Analysis | Machine Learning
   
 ### Let's Connect
-- [LinkedIn](linkedin.com/in/tshifhumulo-mapasa-bab7301a9)
-- [Personal Website](tshifhumulo10.github.io/Portfolio/)
+- [LinkedIn](https://linkedin.com/in/tshifhumulo-mapasa-bab7301a9)
+- [Personal Website](https://tshifhumulo10.github.io/Portfolio/)
 
 ### Interests
 - 📚 Reading | 🎶 Music
